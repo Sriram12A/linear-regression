@@ -54,6 +54,3 @@ pip install pandas numpy scikit-learn matplotlib jupyter
    jupyter notebook
    ```
 4. Open either `linear regression with single variable.ipynb` or `linear regression with multiple variables.ipynb` in your browser and run the cells sequentially to see the models in action!
-
----
-*Created by Sriram12A*
